@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="515a8142-7e3e-45a7-b6b7-cee0ec3364b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hKYD1HC5RzC88z96ge1mRuBK30" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wbl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamsEx">
+    <configuration name="DateAPIexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wbl.DateAPIexample" />
+      <module name="Java8Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wbl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wbl.FunctionalConsumer" />
+      <module name="Java8Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wbl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wbl.FunctionalPractice" />
+      <module name="Java8Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wbl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wbl.LambdaExample" />
+      <module name="Java8Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wbl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wbl.StreamsEx" />
+      <module name="Java8Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wbl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamsEx" />
+        <item itemvalue="Application.FunctionalConsumer" />
+        <item itemvalue="Application.FunctionalPractice" />
+        <item itemvalue="Application.LambdaExample" />
+        <item itemvalue="Application.DateAPIexample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="515a8142-7e3e-45a7-b6b7-cee0ec3364b8" name="Default Changelist" comment="" />
+      <created>1599761127597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599761127597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="259" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599761238254">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="370" y="259" width="427" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.742@0.23.1280.742" timestamp="1599761238254" />
+    <state width="1221" height="236" key="GridCell.Tab.0.bottom" timestamp="1601165529849">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1221" height="236" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1601165529849" />
+    <state width="1221" height="236" key="GridCell.Tab.0.center" timestamp="1601165529849">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1221" height="236" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1601165529849" />
+    <state width="1221" height="236" key="GridCell.Tab.0.left" timestamp="1601165529848">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1221" height="236" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1601165529848" />
+    <state width="1221" height="236" key="GridCell.Tab.0.right" timestamp="1601165529849">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1221" height="236" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1601165529849" />
+    <state x="189" y="125" width="790" height="538" key="find.popup" timestamp="1599768205566">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="189" y="125" width="790" height="538" key="find.popup/0.23.1280.742@0.23.1280.742" timestamp="1599768205566" />
+  </component>
+</project>

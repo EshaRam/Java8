@@ -1,0 +1,23 @@
+
+I
+java:S1612",Replace this lambda with a method reference.(Ñ¤¹•8×µÜÉÇ.
+I
+java:S1612&",Replace this lambda with a method reference.(÷Üç¢8â¯¤ÊÇ.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Åêµúÿÿÿÿ8¹ÎøÊÇ.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(©šŒ•8÷ŒêÊÇ.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8µíËÇ.
+x
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(Ñ¤¹•8×µÜÉÇ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ì²§ÊÇ.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8õ§¶ÊÇ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¶·¶øÿÿÿÿ8Á âÉÇ.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(É™Êùÿÿÿÿ8±ØÊÇ.
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8ç¥‹ÌÇ.
+s
+java:S4276>"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(…Â¯8ØèşÊÇ.
+T
+java:S1854)"8Remove this useless assignment to local variable "map1".(ÎŞ 8£ù®ÊÇ.
+E
+java:S1481)")Remove this unused "map1" local variable.(ÎŞ 8£ù®ÊÇ.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(«…ÿÿÿÿÿ8ê»¿ÊÇ.

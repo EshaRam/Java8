@@ -1,0 +1,31 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ûò²ÕÇ.
+}
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "res".(ò‹ç®þÿÿÿÿ8ëŽÅ×Ç.
+{
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶þÿÿÿÿ8‹äïÔÇ.
+N
+java:S1602+",Remove useless curly braces around statement(•ú·ãÿÿÿÿÿ8—Ö†ÕÇ.
+Q
+java:S16110"/Remove the parentheses around the "s" parameter(ç™Ë¦þÿÿÿÿ8Ä–¶ÕÇ.
+Q
+java:S1611+"/Remove the parentheses around the "x" parameter(•ú·ãÿÿÿÿÿ8—Ö†ÕÇ.
+W
+java:S1128":Remove this unused import 'java.util.function.BiFunction'.(ô¿°×8ÉÚø×Ç.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(òÔÇÍ8Š¶¨ØÇ.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(»¹°Ž8º™¾×Ç.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(§ÑÈ‚øÿÿÿÿ8ÝˆÇ×Ç.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Åá—•þÿÿÿÿ8×¦™ØÇ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(•ú·ãÿÿÿÿÿ8—Ö†ÕÇ.
+M
+java:S1611B"1Remove the parentheses around the "num" parameter(Ä™Ž8­ÅˆÖÇ.
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž8¨»ÿ×Ç.
+Q
+java:S16111"/Remove the parentheses around the "s" parameter(Ì—ýºøÿÿÿÿ8Ä–¶ÕÇ.
+L
+java:S16117"/Remove the parentheses around the "s" parameter(Üý¯Å8ª÷œØÇ.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(žÕôŽ8«ÿ‹ÖÇ.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(§›×¤8ÿ¾¹ÖÇ.
+N
+java:S1612+",Replace this lambda with a method reference.(•ú·ãÿÿÿÿÿ8ÆÀˆÕÇ.
