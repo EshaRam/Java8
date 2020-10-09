@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
+// this is java streams practice with intermediate and terminal operations
+
 public class StreamsEx {
 
     public static void main(String [] args){
